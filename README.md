@@ -1,5 +1,5 @@
 # python-challenge
-Module 3 homework 
+Module 3 homework coding with Python
 
 **Code is located in each respective Resources folder after opening the Pybank or Pypoll folder, and is called main.py**
 
